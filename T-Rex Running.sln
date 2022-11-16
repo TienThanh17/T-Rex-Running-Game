@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-Rex Running", "t-rex running\T-Rex Running.csproj", "{CE687556-03CE-4CF2-8BF9-1C644BE61C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE687556-03CE-4CF2-8BF9-1C644BE61C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE687556-03CE-4CF2-8BF9-1C644BE61C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE687556-03CE-4CF2-8BF9-1C644BE61C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE687556-03CE-4CF2-8BF9-1C644BE61C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4A3977-CB4A-4057-B3F8-A29EC97DF1C3}
+	EndGlobalSection
+EndGlobal

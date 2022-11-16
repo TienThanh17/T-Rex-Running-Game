@@ -1,0 +1,22 @@
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\bin\Debug\T-Rex Running.exe.config
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\bin\Debug\T-Rex Running.exe
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\bin\Debug\T-Rex Running.pdb
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.csproj.AssemblyReference.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T_Rex_Running.Form1.resources
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T_Rex_Running.Properties.Resources.resources
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.csproj.GenerateResource.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.csproj.CoreCompileInputs.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.exe
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\obj\Debug\T-Rex Running.pdb
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\bin\Debug\T-Rex Running.exe.config
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\bin\Debug\T-Rex Running.exe
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\bin\Debug\T-Rex Running.pdb
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.csproj.AssemblyReference.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T_Rex_Running.Form1.resources
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T_Rex_Running.Properties.Resources.resources
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.csproj.GenerateResource.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.csproj.CoreCompileInputs.cache
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.exe
+D:\CODE\Visual Studio\Lap Trinh Tren Window\GAME\T-Rex Running\t-rex running\obj\Debug\T-Rex Running.pdb
